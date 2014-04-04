@@ -1,0 +1,21 @@
+/**
+ * Normalize Mixin
+ *
+ * https://github.com/kwaledesign/Archetype/blob/master/stylesheets/archetype/_normalize.scss
+ * 
+ * comment out any unneeded components
+ */
+@mixin normalize() {
+	@include normalize-display;
+	@include normalize-page;
+	@include normalize-links;
+	@include normalize-typography;
+	@include normalize-embeds;
+	@include normalize-figures;
+	@include normalize-forms;
+	@include normalize-tables;
+}
+/* call normalize mixin */
+@include normalize;
+
+
