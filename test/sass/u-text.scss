@@ -1,0 +1,19 @@
+/**
+ * Test: Archetype/u-normalize.scss
+ *
+ */
+@import '../../_u-normalize.scss';
+
+/**
+ * Normalize
+ */
+@include normalize-display;
+@include normalize-media;
+@include normalize-page;
+@include normalize-links;
+@include normalize-typography;
+@include normalize-embeds;
+@include normalize-figures;
+@include normalize-forms;
+@include normalize-tables;
+
