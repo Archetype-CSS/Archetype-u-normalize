@@ -3,7 +3,7 @@
 Archetype utility for [normalize.css](http://necolas.github.io/normalize.css/)
 
 ## Installation
-  * [Bower](http://bower.io): `Archetype-u-normalize`
+  * [Bower](http://bower.io): `bower install Archetype-u-normalize`
   * Git: `git clone https://github.com/Archetype-CSS/Archetype-u-normalize.git`
 
   Then, import the partial in your main project Sass file `@import 'Archetype-u-normalize';`
