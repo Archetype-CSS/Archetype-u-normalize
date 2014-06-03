@@ -1,14 +1,12 @@
 # u-normalize [![Build Status](https://secure.travis-ci.org/Archetype-CSS/u-normalize.png?branch=master)](http://travis-ci.org/Archetype-CSS/u-normalize) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
-Archetype utility for normalize.css
+Archetype utility for [normalize.css](http://necolas.github.io/normalize.css/)
 
 ## Installation
-  * [Bower](http://bower.io): {{coming soon}}
-  * Git: `git clone https://github.com/Archetype-CSS/u-normalize.git`
+  * [Bower](http://bower.io): `Archetype-u-normalize`
+  * Git: `git clone https://github.com/Archetype-CSS/Archetype-u-normalize.git`
 
-  Then,
-  * Import the partial in your main project Sass file `@import
-    bower_components/Archetype/u-normalize`
+  Then, import the partial in your main project Sass file `@import 'Archetype-u-normalize';`
 
 ## Use
 
@@ -25,8 +23,8 @@ Archetype utility for normalize.css
 ## Run the Test Locally
 
 ```bash
-git clone https://github.com/Archetype-CSS/u-normalize.git
-cd u-normalize
+git clone https://github.com/Archetype-CSS/Archetype-u-normalize.git
+cd Archetype-u-normalize
 npm install
 grunt
 ```
