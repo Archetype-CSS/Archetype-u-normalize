@@ -20,7 +20,7 @@
   "font-faces": true,
   "floats": true,
   "star-property-hack": true,
-  "outline-none": true,
+  "outline-none": false,
   "import": true,
   "ids": true,
   "underscore-property-hack": true,
@@ -31,7 +31,7 @@
   "text-indent": true,
   "unique-headings": false,
   "universal-selector": true,
-  "unqualified-attributes": true,
+  "unqualified-attributes": false,
   "vendor-prefix": false,
   "zero-units": true
 }
