@@ -1,4 +1,4 @@
-# u-normalize [![Build Status](https://secure.travis-ci.org/Archetype-CSS/u-normalize.png?branch=master)](http://travis-ci.org/Archetype-CSS/u-normalize) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+# Archetype-u-normalize [![Build Status](https://secure.travis-ci.org/Archetype-CSS/Archetype-u-normalize.png?branch=master)](http://travis-ci.org/Archetype-CSS/Archetype-u-normalize) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 Archetype utility for [normalize.css](http://necolas.github.io/normalize.css/)
 
