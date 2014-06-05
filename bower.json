@@ -1,6 +1,6 @@
 {
   "name": "Archetype-u-normalize",
-  "version": "0.1.0",
+  "version": "0.8.0",
   "author": "Sam Ashley",
   "main": "_u-normalize.scss",
   "ignore": [
